@@ -1,0 +1,18 @@
+A list of external blog posts by Artem:
+http://blog.ptsecurity.com/2012/06/customizing-blue-screen-of-death.html
+http://blog.ptsecurity.com/2012/09/intel-smep-overview-and-partial-bypass.html
+http://blog.ptsecurity.com/2012/09/bypassing-intel-smep-on-windows-8-x64.html
+http://blog.ptsecurity.com/2012/12/windows-8-aslr-internals.html
+http://blog.ptsecurity.com/2013/03/stars-aligners-how-to-kernel-pool.html
+http://blog.ptsecurity.com/2014/09/microsoft-windows-81-kernel-patch.html
+http://blog.ptsecurity.com/2016/03/from-telemetry-to-open-source-overview.html
+
+A list of external livestream's discussing Windows Kernel Debugging:
+https://www.youtube.com/watch?v=s5gOW-N9AAo - Hacking Livestream #28: Windows Kernel Debugging Part I
+https://www.youtube.com/watch?v=4Xo_FAx6P0A - Hacking Livestream #29: Windows Kernel Debugging Part II
+https://www.youtube.com/watch?v=7zTtVYjjquA - Hacking Livestream #30: Windows Kernel Debugging Part III
+https://www.youtube.com/watch?v=rhsH-snYkIc - Hacking Livestream #31: Windows Kernel Debugging Part IV
+
+
+Artem's personal github (that has other projects):
+https://github.com/honorarybot
