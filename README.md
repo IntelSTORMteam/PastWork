@@ -1,5 +1,5 @@
 # PastWork
-Work done by the team members prior to joining the team
+Work done by current (and former) team members prior to joining the team
 
 Please note this is an Intel Corp repository providing an overview of research publications in the area of Security Research created by Intel and external contributors and partners.
 Please check the respective copyright information and use restrictions.
