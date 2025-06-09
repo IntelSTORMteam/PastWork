@@ -6,4 +6,3 @@ Please check the respective copyright information and use restrictions.
 Intel provides these materials as-is, with no express or implied warranties.
 Intel and the Intel logo are trademarks of Intel Corporation in the United States and other countries.
 Other names and brands may be claimed as the property of others.
-
